@@ -1,0 +1,1 @@
+This is just my personal project at school, content and algorithms are based on the content of Attaullah, Tariq Shah, Sajjad Shaukat Jamal, “An Improved Chaotic Cryptosystem for Image Encryption and Digital Watermarking.”
